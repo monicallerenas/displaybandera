@@ -8,7 +8,9 @@ div{
 	height: 140%;
 	width: 20%;
 	font-size: 120%;
-	margin-top: 1%
+	margin-top: 1%;
+	display: inline-block;
+
 }
 .pdt5{
 	padding-left: 1%;
